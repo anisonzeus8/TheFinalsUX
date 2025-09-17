@@ -69,3 +69,4 @@ Packed with **Aimbot, ESP, Wallhack, No Recoil, Speedhack, Unlock All** and more
 | **How to update?**   | Updates automatically after every new patch.    |
 | **Stream-proof?**    | Yes, invisible for OBS & Discord captures.      |
 | **Does it unlock skins?** | Yes, includes Unlock All for cosmetics.    |
+ 
